@@ -41,12 +41,12 @@ O projeto **não cria um caderno salvo na conta do Gran**: ele gera um link para
 
 ### Exemplo de utilização
 
-> “Quero estudar este tópico do meu edital "a Convenção Americana sobre Direitos Humanos", banca FCC, nível médio. Gere um caderno do Gran”
+> “Traki, estou estudando este tópico do meu edital "Diagramas lógicos", banca FCC, nível médio, quero questões dos últimos 10 anos. Gere um caderno do Gran”
 
 O Claude ou outro assistente de IA, irá se conectar ao MCP e retornar uma resposta para o seu pedido:
 
-🎯 Caderno Gran Questões Gerado com Sucesso!
-[🔗 Clique aqui para abrir o Caderno no Gran Questões](https://questoes.grancursosonline.com.br/aluno/filtro/concursos?nivel=2&banca=92&assunto=407112&desatualizada=0&anulada=0)
+🎯 Caderno Gran Questões Gerado com Sucesso! 
+[🔗 Clique aqui para abrir o Caderno no Gran Questões](https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406162%2C425297%2C425298%2C425299%2C425300&banca=92&anos=2017%2C2018%2C2019%2C2020%2C2021%2C2022%2C2023%2C2024%2C2025%2C2026&nivel=2)
 
 O assistente pode pesquisar os assuntos, gerar a URL, revisar os filtros retornados e refazer a busca se encontrar alguma divergência. Caso não encontre um filtro adequado, deve informar a limitação em vez de presumir uma correspondência.
 
