@@ -5,10 +5,10 @@ O Traki, a corujinha robótica do Track Concursos, conecta um assistente de IA a
 <p align="center">
   <img src="assets/traki-apresentando-gran.png" width="248" alt="Traki apresentando o Gran Questões">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/traki-gran.png" width="190" alt="Traki com os super-poderes do Gran Questões">
+  <img src="assets/traki-gran.png" width="190" alt="Traki com os superpoderes do Gran Questões">
 </p>
 
-<p align="center"><sub>Traki apresentando o Gran Questões e o Traki com os super-poderes do Gran Questões.</sub></p>
+<p align="center"><sub>Traki apresentando o Gran Questões e o Traki com os superpoderes do Gran Questões.</sub></p>
 
 <p align="center">
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-MCP%20Ready-D97757?style=flat&logo=anthropic&logoColor=white&labelColor=111827" alt="Claude MCP Ready"></a>
@@ -23,7 +23,7 @@ Essa ferramenta MCP foi criada para ajudar quem estuda pelo Track Concursos ou p
 
 ## Como esse projeto é possível?
 
-Plataformas como o Qconcursos e o Gran Questões permitem aplicar filtros diretamente pela URL. Cada assunto, banca e outros tipos de filtros, possuem um identificador. Com esses IDs combinados na URL, é possível montar um link que já abre a página com as questões filtradas.
+Plataformas como o Qconcursos e o Gran Concursos permitem aplicar filtros diretamente pela URL. Cada assunto, banca e outros tipos de filtros, possuem um identificador. Com esses IDs combinados na URL, é possível montar um link que já abre a página com as questões filtradas.
 
 É aí que entra a IA: ela entende o tópico que o estudante quer praticar e, com a ajuda do MCP, encontra os IDs correspondentes no catálogo de filtros do Gran Questões. Assim, consegue combinar dezenas de filtros em segundos e entregar um link pronto para estudar, sem que o estudante precise selecionar cada opção manualmente. Este projeto usa esse mecanismo para gerar links do **Gran Questões**.
 
