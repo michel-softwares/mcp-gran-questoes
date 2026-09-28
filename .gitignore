@@ -1,0 +1,27 @@
+# Ignore all server code, configs, dependencies and databases
+src/
+subjects/
+filters/
+indexes/
+*.tsv
+*.js
+*.json
+Dockerfile
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+*.cert
+logs/
+*.log
+.pm2/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# In assets, only track the two owl images used in README
+assets/*
+!assets/traki-apresentando-gran.png
+!assets/traki-gran.png
