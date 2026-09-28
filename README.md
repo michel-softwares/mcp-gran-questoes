@@ -43,6 +43,11 @@ O projeto **não cria um caderno salvo na conta do Gran**: ele gera um link para
 
 > “Quero estudar este tópico do meu edital "a Convenção Americana sobre Direitos Humanos", banca FCC, nível médio. Gere um caderno do Gran”
 
+O Claude ou outro assistente de IA, irá se conectar ao MCP e retornar uma resposta para o seu pedido:
+
+🎯 Caderno Gran Questões Gerado com Sucesso!
+[🔗 Clique aqui para abrir o Caderno no Gran Questões](https://questoes.grancursosonline.com.br/aluno/filtro/concursos?nivel=2&banca=92&assunto=407112&desatualizada=0&anulada=0)
+
 O assistente pode pesquisar os assuntos, gerar a URL, revisar os filtros retornados e refazer a busca se encontrar alguma divergência. Caso não encontre um filtro adequado, deve informar a limitação em vez de presumir uma correspondência.
 
 ## Conectar ao Claude
