@@ -73,7 +73,7 @@ Você também pode pedir outros filtros disponíveis nesta integração, por exe
 
 - “Quero questões da banca IBFC, nível médio.”
 - “Quero questões dos últimos 10 anos.” o traki gerará um link com questões filtradas dos últimos 10 anos
-- “Quero apenas questões do cargo de Policial Militar, banca cebraspe, nível superior, dos últimos 10 anos.” O filtro do cargo Policial Militar, da banca cebraspe, da escolaridade superior e dos últimos 10 anos serão aplicados.
+- “Quero apenas questões difíceis e muito difíceis, banca cebraspe, nível superior, dos últimos 10 anos.” Os filtros de dificuldade Difícil e Muito Difícil, da banca cebraspe, da escolaridade superior, do seu assunto e dos últimos 10 anos serão aplicados.
 
 ## Ferramentas MCP
 
