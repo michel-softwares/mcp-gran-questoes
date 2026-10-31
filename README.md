@@ -97,7 +97,7 @@ Licença: [MIT](LICENSE).
 
 O Traki e o Track Concursos são projetos feitos para ajudar concurseiros a estudar com mais organização. Se eles forem úteis para você, há algumas formas de apoiar:
 
-- ⭐ Deixe uma estrela [neste repositório do MCP](./) e no [repositório do Track Concursos](https://github.com/michel-softwares/track-concursos). Isso ajuda outras pessoas a encontrar os projetos.
+- ⭐ Deixe uma estrela [neste repositório do MCP](./) e no [repositório do Track Concursos](https://github.com/michel-softwares/track-concursos). Isso ajuda outras pessoas a encontrarem os projetos.
 - 🌐 Conheça e compartilhe o [site oficial do Track Concursos](https://trackconcursos.vercel.app/).
 - ☕ Se quiser contribuir com a manutenção desse projeto e as próximas melhorias, a chave Pix é **`michelaraujo100@gmail.com`**.
 
